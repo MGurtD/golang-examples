@@ -6,7 +6,7 @@ package mock
 import (
 	"sync"
 
-	beerscli "github.com/CodelyTV/golang-examples/11-sharing_memory_concurrency/internal"
+	beerscli "github.com/MGurtD/golang-examples/11-sharing_memory_concurrency/internal"
 )
 
 var (

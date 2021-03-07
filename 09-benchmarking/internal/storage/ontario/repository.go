@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	beerscli "github.com/CodelyTV/golang-examples/09-benchmarking/internal"
-	"github.com/CodelyTV/golang-examples/09-benchmarking/internal/errors"
+	beerscli "github.com/MGurtD/golang-examples/09-benchmarking/internal"
+	"github.com/MGurtD/golang-examples/09-benchmarking/internal/errors"
 	jsoniter "github.com/json-iterator/go"
 )
 

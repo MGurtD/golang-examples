@@ -5,7 +5,7 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/CodelyTV/golang-examples/08-automated_tests/internal/fetching"
+	"github.com/MGurtD/golang-examples/08-automated_tests/internal/fetching"
 
 	"github.com/spf13/cobra"
 )

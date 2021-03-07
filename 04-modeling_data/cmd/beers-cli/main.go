@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/CodelyTV/golang-examples/04-modeling_data/internal/cli"
-	"github.com/CodelyTV/golang-examples/04-modeling_data/internal/storage/csv"
+	"github.com/MGurtD/golang-examples/04-modeling_data/internal/cli"
+	"github.com/MGurtD/golang-examples/04-modeling_data/internal/storage/csv"
 	"github.com/spf13/cobra"
 )
 
